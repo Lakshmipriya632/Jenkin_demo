@@ -4,5 +4,6 @@ class mycode {
      public static void main(String[] args) {
          System.out.println("Hello this is my first jenkins job");
          System.out.println("First commit is made");
+          System.out.println("Second commit is made");
      }
 }
